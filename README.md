@@ -1,1 +1,1 @@
-# ProjectsRepo
+# projects-repo
