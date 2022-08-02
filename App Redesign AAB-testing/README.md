@@ -9,10 +9,14 @@
 - определить, влияет ли на поведение пользователей редизайн шрифта в приложении (A/A/B-тест - две контрольные группы со старым шрифтом и одна экспериментальная — с новым).
 
 Предоставлены данные журнала событий:
-`EventName` — название события;
-`DeviceIDHash` — уникальный идентификатор пользователя;
-`EventTimestamp` — время события;
-`ExpId` — номер эксперимента.
+
+- `EventName` — название события;
+
+- `DeviceIDHash` — уникальный идентификатор пользователя;
+
+- `EventTimestamp` — время события;
+
+- `ExpId` — номер эксперимента.
 
 | [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) |
 | --- | --- |
