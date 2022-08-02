@@ -12,9 +12,9 @@
 `EventTimestamp` — время события;
 `ExpId` — номер эксперимента.
 
-| [Проект на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) |
+| **[Проект на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb)** | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) |
 | --- | --- |
-| отображаются интерактивные графические объекты Plotly | статичный вариант |
+| **корректный переход по внутренним ссылкам в оглавлении проекта, отображаются интерактивные графические объекты Plotly** | статичный вариант |
 
 # Выводы
 
