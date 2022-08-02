@@ -1,6 +1,6 @@
 # Исследование поведения пользователей мобильного приложения и влияния на него редизайна шрифта
 
-<a href="https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb" target="_blank">Ссылка на проект</a> :point_left:
+[Ссылка на проект](https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) :point_left:
 
 Для стартапа, специализирующегося на продаже продуктов питания через мобильное приложение, необходимо:
 
@@ -18,7 +18,7 @@
 
 - `ExpId` — номер эксперимента.
 
-| <a href="https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb" target="_blank">Рендер проекта на `nbviewer`</a> | <a href="https://github.com/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb" target="_blank">Проект на `github`</a> |
+| [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb) |
 | --- | --- |
 | **корректный переход по внутренним ссылкам в оглавлении проекта, отображаются интерактивные графические объекты Plotly** | статичный вариант |
 
