@@ -48,13 +48,3 @@
 [Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Factors%20Affecting%20Loan%20Repayment%20Performance/loan-repayment-factors.ipynb)
 
 
-
-[Проект]()
- | 
-[Jupyter Notebook]()
-
-
-
-[Проект]()
- | 
-[Jupyter Notebook]()
