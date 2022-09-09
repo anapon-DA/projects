@@ -1,6 +1,6 @@
 # Выявление и анализ факторов, влияющих на отток клиентов сети фитнес-центров, прогнозирование оттока и кластеризация клиентов с применением Machine Learning
 
-[Ссылка на проект](https://nbviewer.org/github/anapon-DA/projects/blob/main/Churn%20Prediction%20%28ML%29%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) :point_left:
+[Ссылка на проект](https://nbviewer.org/github/anapon-DA/projects/blob/main/ML%20Churn%20Prediction%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) :point_left:
 
 Сеть фитнес-центров разрабатывает стратегию взаимодействия с клиентами. Необходимо провести анализ и подготовить план действий по удержанию клиентов:
 
@@ -16,7 +16,7 @@
 Предоставлены деперсонализированные данные клиентов, данные журнала посещений, покупок и информация о текущем статусе абонемента каждого клиента.
 
 
-| [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/main/Churn%20Prediction%20%28ML%29%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/Churn%20Prediction%20(ML)%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) |
+| [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/main/ML%20Churn%20Prediction%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/ML%20Churn%20Prediction%20for%20Gym%20Members/gym-member-portraits-and-retention-ML.ipynb) |
 | --- | --- |
 | **корректный переход по внутренним ссылкам в оглавлении проекта** | статичный вариант |
 
