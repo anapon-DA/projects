@@ -2,7 +2,7 @@
 
 Этот репозиторий содержит мои проекты.
 
-Провела A/A/B-тестирование редизайна шрифта в мобильном приложении и определила, что новый шрифт на поведение пользователей и конверсию не влияет, также построила воронку событий на основе записей лога мобильного приложения и выявила «слабые места» конверсии.
+Провела A/A/B-тестирование редизайна шрифта в мобильном приложении и определила, влияет ли новый шрифт на поведение пользователей и конверсию, также построила воронку событий на основе записей лога мобильного приложения и выявила «слабые места» конверсии.
 [Проект](https://github.com/anapon-DA/projects/tree/main/App%20Redesign%20AAB-testing#исследование-поведения-пользователей-мобильного-приложения-и-влияния-на-него-редизайна-шрифта)
  | 
 [Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/d61903e876e19956409612cf1ece5286a6854feb/App%20Redesign%20AAB-testing/AAB-test-app-redesign.ipynb)
@@ -37,14 +37,43 @@
 
 
 
-
-
-
-
-
 Выявила основные факторы, влияющие на надежность заемщиков, категоризировала данные с помощью лемматизации. Проект выполнен с применением морфологического анализатора русского языка (библиотека PyMystem3).
 [Проект](https://github.com/anapon-DA/projects/blob/main/Factors%20Affecting%20Loan%20Repayment%20Performance/README.md#выявление-факторов-влияющих-на-возврат-заемщиками-кредита-в-срок)
  | 
 [Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Factors%20Affecting%20Loan%20Repayment%20Performance/loan-repayment-factors.ipynb)
 
 
+Определила наиболее прибыльные тарифные планы на основании данных пользователей (Pandas).
+[Проект](https://github.com/anapon-DA/projects/tree/main/Telecom%20Subscriber%20Data%20Analysis#определение-перспективного-тарифа-сотовой-связи-на-основании-анализа-поведения-абонентов-и-показателей-выручки)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Telecom%20Subscriber%20Data%20Analysis/telecom-subscriber-data-analysis.ipynb)
+
+
+На основании данных сервиса по продаже недвижимости выявила параметры объявлений о продаже, указывающие на вероятную мошенническую деятельность (Pandas).
+[Проект](https://github.com/anapon-DA/projects/tree/main/Defining%20Parameters%20for%20a%20Fraud%20Detection%20System#выявление-параметров-объявлений-о-продаже-недвижимости-указывающих-на-вероятную-мошенническую-деятельность)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Defining%20Parameters%20for%20a%20Fraud%20Detection%20System/real%20estate%20online%20service%20and%20fraud%20detection.ipynb)
+
+
+Проанализировала объекты общественного питания Москвы, выявила основные характеристики самых популярных из них (вид, количество посадочных мест, район и др.), чтобы по запросу инвесторов определить "портрет" успешного заведения (Pandas).
+[Проект](https://github.com/anapon-DA/projects/tree/main/Catering%20Market%20Research#исследование-рынка-заведений-общественного-питания-москвы)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Catering%20Market%20Research/catering-market-research.ipynb)
+
+
+В ходе исследования рынка определила видеоигр факторы, влияющие на продажи, статистически значимые отличия в средних пользовательских рейтингах разных жанров, а также наиболее перспективные в отношении выручки жанры (Pandas).
+[Проект](https://github.com/anapon-DA/projects/tree/main/Video%20Game%20Market%20and%20Patterns%20of%20Success#исследование-рынка-видеоигр-и-выявление-определяющих-успешность-игры-закономерностей)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Video%20Game%20Market%20and%20Patterns%20of%20Success/video%20game%20market%20and%20patterns%20of%20success.ipynb)
+
+
+Из списка гипотез для увеличения выручки выбрала приоритетную (по RICE) и провела A/B-тесты для интернет-магазина, оценила ключевые бизнес-метрики и выявила статистически значимые различия в конверсии (Pandas). 
+[Проект](https://github.com/anapon-DA/projects/tree/main/Hypotheses%20Prioritization%20and%20AB-testing%20to%20Increase%20Online%20Store%20Revenue#определение-наиболее-перспективной-оценка-rice-гипотезы-для-увеличения-выручки-интернет-магазина-ab-тестирование-и-оценка-бизнес-метрик)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Hypotheses%20Prioritization%20and%20AB-testing%20to%20Increase%20Online%20Store%20Revenue/AB-tests%20for%20subscription%20form%20with%20RICE%20prioritization.ipynb)
+
+
+На данных музкального сервиса сравнила поведение пользователей двух городов и их музыкальные вкусы, выявила зависимость активности пользователей от дня недели, определила топ жанров в Москве и Санкт-Петербурге и какие жанры преобладают в разные дни недели.
+[Проект](https://github.com/anapon-DA/projects/tree/main/Music%20Service%20Statistics%20for%20Megalopolises#статистика-прослушиваний-треков-музыкального-сервиса-в-мегаполисах)
+ | 
+[Jupyter Notebook](https://nbviewer.org/github/anapon-DA/projects/blob/main/Music%20Service%20Statistics%20for%20Megalopolises/music%20service%20statistics.ipynb)
