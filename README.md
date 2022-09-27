@@ -1,7 +1,7 @@
 # Data Analysis - Projects
 
 ## Описание 
-Этот репозиторий содержит мои проекты.
+В этом репозитории представлены мои проекты.
 
 [Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1gTuHAhv_5-3RDKd-kepXBfBDlM6SWto5/view?usp=sharing) ("Школа анализа данных" — Yandex.Practicum).
 
