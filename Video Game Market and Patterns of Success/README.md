@@ -12,16 +12,16 @@
 
 Предоставлен датасет:
 
-- `Name` — название игры
-- `Platform` — платформа
-- `Year_of_Release` — год выпуска
-- `Genre` — жанр игры
-- `NA_sales` — продажи в Северной Америке (миллионы проданных копий)
-- `EU_sales` — продажи в Европе (миллионы проданных копий)
-- `JP_sales` — продажи в Японии (миллионы проданных копий)
-- `Other_sales` — продажи в других странах (миллионы проданных копий)
-- `Critic_Score` — оценка критиков (максимум 100)
-- `User_Score` — оценка пользователей (максимум 10)
+- `Name` — название игры;
+- `Platform` — платформа;
+- `Year_of_Release` — год выпуска;
+- `Genre` — жанр игры;
+- `NA_sales` — продажи в Северной Америке (миллионы проданных копий);
+- `EU_sales` — продажи в Европе (миллионы проданных копий);
+- `JP_sales` — продажи в Японии (миллионы проданных копий);
+- `Other_sales` — продажи в других странах (миллионы проданных копий);
+- `Critic_Score` — оценка критиков (максимум 100);
+- `User_Score` — оценка пользователей (максимум 10);
 - `Rating` — возрастной рейтинг от организации ESRB (англ. Entertainment Software Rating Board).
 
 | [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/main/Video%20Game%20Market%20and%20Patterns%20of%20Success/video%20game%20market%20and%20patterns%20of%20success.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/Video%20Game%20Market%20and%20Patterns%20of%20Success/video%20game%20market%20and%20patterns%20of%20success.ipynb) |
