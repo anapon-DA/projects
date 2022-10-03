@@ -12,13 +12,13 @@
 
 - датасет с данными об источниках скачивания приложения: 
 
-	- `userId` — идентификатор пользователя;
-	- `source` — источник, из которого пользователь установил приложение;
+	- `userId` — идентификатор пользователя
+	- `source` — источник, из которого пользователь установил приложение
 
 - журнал событий:
-	- `event.time` — время совершения действия;
-	- `user.id` — идентификатор пользователя;
-	- `event.name` — действие пользователя.
+	- `event.time` — время совершения действия
+	- `user.id` — идентификатор пользователя
+	- `event.name` — действие пользователя
 
 | [Рендер проекта на `nbviewer`](https://nbviewer.org/github/anapon-DA/projects/blob/main/Identifying%20Factors%20for%20a%20Target%20Action%20%28Mobile%20App%29/sales-app.ipynb) | [Проект на `github`](https://github.com/anapon-DA/projects/blob/main/Identifying%20Factors%20for%20a%20Target%20Action%20(Mobile%20App)/sales-app.ipynb) |
 | --- | --- |
