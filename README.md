@@ -191,4 +191,4 @@
 
 ---
 
-[Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1gTuHAhv_5-3RDKd-kepXBfBDlM6SWto5/view?usp=sharing) — Школа анализа данных (АНО ДПО ШАД) / «Yandex.Practicum»
+[Диплом о профессиональной переподготовке](https://drive.google.com/file/d/1gTuHAhv_5-3RDKd-kepXBfBDlM6SWto5/view?usp=sharing) — Школа анализа данных (АНО ДПО "ШАД") / «Yandex.Practicum»
